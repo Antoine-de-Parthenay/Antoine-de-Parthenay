@@ -12,7 +12,7 @@
 
 ---
 
-## 👋 About me
+## About me
 
 AI engineer with **3 years** turning complex business problems into production-ready systems — from initial scoping to large-scale deployment.
 
@@ -22,7 +22,7 @@ My background in **quantitative finance** gives me a rare ability to bridge busi
 
 ---
 
-## 🚀 What I'm building
+## What I'm building
 
 ### [GwenFlow](https://github.com/gwenlake/gwenflow) — Open-source Python multi-agent orchestration framework
 > Co-created from scratch. A framework for orchestrating applications powered by autonomous AI agents and LLMs.
@@ -43,7 +43,7 @@ print(response.content)
 
 ---
 
-## 🛠️ Tech stack
+## Tech stack
 
 **AI & LLMs**
 `Agentic systems` `RAG` `Fine-tuning` `vLLM` `PyTorch` `Hugging Face` `OpenAI API`
@@ -59,14 +59,14 @@ print(response.content)
 
 ---
 
-## 🎤 Speaking
+## Speaking
 
 - **Agentic AI – Decoding a Revolution** · IA4SUP, University of Rennes · 2025
 - **Can ChatGPT Revolutionize Finance?** · University of Rennes · 2023
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
