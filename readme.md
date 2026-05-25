@@ -32,7 +32,7 @@ from gwenflow import ChatOpenAI, Agent
 agent = Agent(
     name="Researcher",
     instructions=["Search and summarize relevant information."],
-    llm=ChatOpenAI(model="gpt-4o"),
+    llm=ChatOpenAI(model="gpt-5-mini"),
     tools=[],
 )
 
