@@ -16,9 +16,7 @@
 
 AI engineer with **3 years** turning complex business problems into production-ready systems — from initial scoping to large-scale deployment.
 
-Currently at **[Gwenlake](https://gwenlake.com)**, managing concurrent AI projects across healthcare, maritime sustainability, industrial operations, and professional education.
-
-My background in **quantitative finance** gives me a rare ability to bridge business impact and technical architecture.
+Currently at **[Gwenlake](https://gwenlake.com)**, managing AI projects.
 
 ---
 
@@ -46,7 +44,7 @@ print(response.content)
 ## Tech stack
 
 **AI & LLMs**
-`Agentic systems` `RAG` `Fine-tuning` `vLLM` `PyTorch` `Hugging Face` `OpenAI API`
+`Agentic systems` `RAG` `Fine-tuning` `vLLM` `PyTorch` `FastAPI` `Hugging Face` `OpenAI API`
 
 **MLOps & Infrastructure**
 `Kubernetes` `ArgoCD` `Docker` `CUDA` `H100/A100 GPU clusters`
