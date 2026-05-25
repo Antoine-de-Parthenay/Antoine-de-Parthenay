@@ -1,7 +1,4 @@
 <div align="center">
-
-# Antoine de Parthenay
-
 **Full-Stack AI Engineer · Building production-ready AI systems**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/antoine-de-parthenay)
